@@ -7,7 +7,7 @@
 
 [Google](https://www.google.com)
 
-![Alt Text](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png)
+![React Image](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png)
 
 
 | Header 1 | Header 2 |
