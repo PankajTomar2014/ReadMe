@@ -15,9 +15,6 @@
 | Cell 1   | Cell 2   |
 
 
-```javascript
-const example = "Hello, World!";
-
 
 - Item 1
 - Item 2
@@ -34,3 +31,7 @@ const example = "Hello, World!";
 ### Usage
 
 #### Features
+
+```javascript
+const example = "Hello, World!";
+
